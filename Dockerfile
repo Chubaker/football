@@ -1,5 +1,5 @@
 # file einfügen
-Master: Feature in Dockerfile eingefuegt
+Master: Feature in Dockerfile eingefuegt - Änderung aus master uebersteuert feature
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
